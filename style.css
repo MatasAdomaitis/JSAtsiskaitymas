@@ -1,0 +1,32 @@
+.border {
+
+    border: solid black;
+    padding: 5px;
+    width: fit-content;
+    margin: auto;
+    text-align: justify;
+
+}
+
+
+.avatar {
+    margin: auto;
+    width: 150px;
+    text-align: center;
+    
+}
+
+.Hobbies {
+
+    border: black solid;
+    text-align: center;
+    margin: auto;
+
+}
+
+.first-image {
+
+    width: 50px;
+    height: auto;
+
+}
